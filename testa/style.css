@@ -1,0 +1,32 @@
+.tabela {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+
+    .theadtab {
+    background-color: #714329;
+    color: white;
+}
+
+
+    .tbodytab tr:nth-child(even) {
+    color: white;
+    background-color: #714329;
+}
+
+
+    .tfoottab {
+    color: black;
+    background-color: #D0b9A7;
+    font-weight: bold;
+}
+
+
+    th, td {
+    padding: 12px;
+    border: 2px solid black;
+    text-align: left;
+}
